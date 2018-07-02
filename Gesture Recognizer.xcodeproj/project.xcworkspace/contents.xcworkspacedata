@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../doc.png">
+   </FileRef>
+   <FileRef
+      location = "group:../trash.png">
+   </FileRef>
+   <FileRef
       location = "self:Gesture Recognizer.xcodeproj">
    </FileRef>
 </Workspace>
